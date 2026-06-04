@@ -1,0 +1,15 @@
+Avatar;2009;Sci-Fi;8.5
+Titanic;1997;Romance;7.8
+Inception;2010;Sci-Fi;8.8
+Interstellar;2014;Sci-Fi;8.6
+Matrix;1999;Action;8.7
+Gladiator;2000;Action;8.5
+Joker;2019;Drama;8.4
+Batman;2008;Action;9.0
+Frozen;2013;Animation;7.5
+Up;2009;Animation;8.3
+Cars;2006;Animation;7.1
+Avengers;2012;Action;8.0
+Thor;2011;Fantasy;7.0
+Hulk;2003;Action;5.6
+Shrek;2001;Comedy;7.9
